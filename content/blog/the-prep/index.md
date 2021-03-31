@@ -1,7 +1,6 @@
 ---
 title: The Prep
 date: "2021-03-29T12:00:00.000Z"
-description: "The Prep"
 ---
 
 So, this is where it officially begins. Well, almost. We have to clear the fucking loft first. It's interesting to think why we kept all this shit if the first place it goes once it enters back into the house is directly in the bin. 
