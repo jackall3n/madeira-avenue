@@ -331,3 +331,7 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+.gatsby-resp-image-wrapper img {
+  object-fit: cover;;
+}
